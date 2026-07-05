@@ -6,6 +6,426 @@
       "action": "ai_analyse_receipt_error",
       "details": "Request failed with status code 429",
       "timestamp": 1783236749575
+    },
+    {
+      "id": 2,
+      "action": "fetch_receipts_error",
+      "details": "Xero credentials not found. Connect your account first.",
+      "timestamp": 1783238105452
+    },
+    {
+      "id": 3,
+      "action": "fetch_bank_transactions_error",
+      "details": "Xero credentials not found. Connect your account first.",
+      "timestamp": 1783238105452
+    },
+    {
+      "id": 4,
+      "action": "xero_request_error",
+      "details": "\"Xero credentials not found. Connect your account first.\"",
+      "timestamp": 1783238105452
+    },
+    {
+      "id": 5,
+      "action": "fetch_invoices_error",
+      "details": "Xero credentials not found. Connect your account first.",
+      "timestamp": 1783238105457
+    },
+    {
+      "id": 6,
+      "action": "xero_request_error",
+      "details": "\"Xero credentials not found. Connect your account first.\"",
+      "timestamp": 1783238106474
+    },
+    {
+      "id": 7,
+      "action": "xero_request_error",
+      "details": "\"Xero credentials not found. Connect your account first.\"",
+      "timestamp": 1783238106474
+    },
+    {
+      "id": 8,
+      "action": "xero_request_error",
+      "details": "\"Xero credentials not found. Connect your account first.\"",
+      "timestamp": 1783238106475
+    },
+    {
+      "id": 9,
+      "action": "fetch_receipts_error",
+      "details": "Xero credentials not found. Connect your account first.",
+      "timestamp": 1783238106486
+    },
+    {
+      "id": 10,
+      "action": "fetch_invoices_error",
+      "details": "Xero credentials not found. Connect your account first.",
+      "timestamp": 1783238106486
+    },
+    {
+      "id": 11,
+      "action": "fetch_bank_transactions_error",
+      "details": "Xero credentials not found. Connect your account first.",
+      "timestamp": 1783238106486
+    },
+    {
+      "id": 12,
+      "action": "xero_request_error",
+      "details": "\"Xero credentials not found. Connect your account first.\"",
+      "timestamp": 1783238108504
+    },
+    {
+      "id": 13,
+      "action": "xero_request_error",
+      "details": "\"Xero credentials not found. Connect your account first.\"",
+      "timestamp": 1783238108505
+    },
+    {
+      "id": 14,
+      "action": "xero_request_error",
+      "details": "\"Xero credentials not found. Connect your account first.\"",
+      "timestamp": 1783238108506
+    },
+    {
+      "id": 15,
+      "action": "fetch_bank_transactions_error",
+      "details": "Xero credentials not found. Connect your account first.",
+      "timestamp": 1783238108511
+    },
+    {
+      "id": 16,
+      "action": "fetch_receipts_error",
+      "details": "Xero credentials not found. Connect your account first.",
+      "timestamp": 1783238108511
+    },
+    {
+      "id": 17,
+      "action": "fetch_invoices_error",
+      "details": "Xero credentials not found. Connect your account first.",
+      "timestamp": 1783238108511
+    },
+    {
+      "id": 18,
+      "action": "xero_request_error",
+      "details": "\"Xero credentials not found. Connect your account first.\"",
+      "timestamp": 1783238112540
+    },
+    {
+      "id": 19,
+      "action": "xero_request_error",
+      "details": "\"Xero credentials not found. Connect your account first.\"",
+      "timestamp": 1783238112543
+    },
+    {
+      "id": 20,
+      "action": "xero_request_error",
+      "details": "\"Xero credentials not found. Connect your account first.\"",
+      "timestamp": 1783238112544
+    },
+    {
+      "id": 21,
+      "action": "fetch_invoices_error",
+      "details": "Xero credentials not found. Connect your account first.",
+      "timestamp": 1783238112560
+    },
+    {
+      "id": 22,
+      "action": "fetch_bank_transactions_error",
+      "details": "Xero credentials not found. Connect your account first.",
+      "timestamp": 1783238112560
+    },
+    {
+      "id": 23,
+      "action": "fetch_receipts_error",
+      "details": "Xero credentials not found. Connect your account first.",
+      "timestamp": 1783238112560
+    },
+    {
+      "id": 24,
+      "action": "ai_analyse_receipt_error",
+      "details": "Request failed with status code 429",
+      "timestamp": 1783238115591
+    },
+    {
+      "id": 25,
+      "action": "xero_request_error",
+      "details": "\"Xero credentials not found. Connect your account first.\"",
+      "timestamp": 1783238117714
+    },
+    {
+      "id": 26,
+      "action": "fetch_invoices_error",
+      "details": "Xero credentials not found. Connect your account first.",
+      "timestamp": 1783238117717
+    },
+    {
+      "id": 27,
+      "action": "xero_request_error",
+      "details": "\"Xero credentials not found. Connect your account first.\"",
+      "timestamp": 1783238118736
+    },
+    {
+      "id": 28,
+      "action": "fetch_invoices_error",
+      "details": "Xero credentials not found. Connect your account first.",
+      "timestamp": 1783238118738
+    },
+    {
+      "id": 29,
+      "action": "fetch_logs",
+      "details": "Fetched logs from database",
+      "timestamp": 1783238119155
+    },
+    {
+      "id": 30,
+      "action": "xero_request_error",
+      "details": "\"Xero credentials not found. Connect your account first.\"",
+      "timestamp": 1783238133241
+    },
+    {
+      "id": 31,
+      "action": "xero_request_error",
+      "details": "\"Xero credentials not found. Connect your account first.\"",
+      "timestamp": 1783238133241
+    },
+    {
+      "id": 32,
+      "action": "xero_request_error",
+      "details": "\"Xero credentials not found. Connect your account first.\"",
+      "timestamp": 1783238133241
+    },
+    {
+      "id": 33,
+      "action": "fetch_logs",
+      "details": "Fetched logs from database",
+      "timestamp": 1783238133242
+    },
+    {
+      "id": 34,
+      "action": "fetch_receipts_error",
+      "details": "Xero credentials not found. Connect your account first.",
+      "timestamp": 1783238133246
+    },
+    {
+      "id": 35,
+      "action": "fetch_bank_transactions_error",
+      "details": "Xero credentials not found. Connect your account first.",
+      "timestamp": 1783238133246
+    },
+    {
+      "id": 36,
+      "action": "fetch_invoices_error",
+      "details": "Xero credentials not found. Connect your account first.",
+      "timestamp": 1783238133246
+    },
+    {
+      "id": 37,
+      "action": "xero_request_error",
+      "details": "\"Xero credentials not found. Connect your account first.\"",
+      "timestamp": 1783238134267
+    },
+    {
+      "id": 38,
+      "action": "xero_request_error",
+      "details": "\"Xero credentials not found. Connect your account first.\"",
+      "timestamp": 1783238134270
+    },
+    {
+      "id": 39,
+      "action": "xero_request_error",
+      "details": "\"Xero credentials not found. Connect your account first.\"",
+      "timestamp": 1783238134271
+    },
+    {
+      "id": 40,
+      "action": "fetch_invoices_error",
+      "details": "Xero credentials not found. Connect your account first.",
+      "timestamp": 1783238134277
+    },
+    {
+      "id": 41,
+      "action": "fetch_receipts_error",
+      "details": "Xero credentials not found. Connect your account first.",
+      "timestamp": 1783238134279
+    },
+    {
+      "id": 42,
+      "action": "fetch_bank_transactions_error",
+      "details": "Xero credentials not found. Connect your account first.",
+      "timestamp": 1783238134279
+    },
+    {
+      "id": 43,
+      "action": "xero_request_error",
+      "details": "\"Xero credentials not found. Connect your account first.\"",
+      "timestamp": 1783238136316
+    },
+    {
+      "id": 44,
+      "action": "xero_request_error",
+      "details": "\"Xero credentials not found. Connect your account first.\"",
+      "timestamp": 1783238136317
+    },
+    {
+      "id": 45,
+      "action": "xero_request_error",
+      "details": "\"Xero credentials not found. Connect your account first.\"",
+      "timestamp": 1783238136319
+    },
+    {
+      "id": 46,
+      "action": "fetch_bank_transactions_error",
+      "details": "Xero credentials not found. Connect your account first.",
+      "timestamp": 1783238136329
+    },
+    {
+      "id": 47,
+      "action": "fetch_invoices_error",
+      "details": "Xero credentials not found. Connect your account first.",
+      "timestamp": 1783238136330
+    },
+    {
+      "id": 48,
+      "action": "fetch_receipts_error",
+      "details": "Xero credentials not found. Connect your account first.",
+      "timestamp": 1783238136330
+    },
+    {
+      "id": 49,
+      "action": "xero_request_error",
+      "details": "\"Xero credentials not found. Connect your account first.\"",
+      "timestamp": 1783238140379
+    },
+    {
+      "id": 50,
+      "action": "xero_request_error",
+      "details": "\"Xero credentials not found. Connect your account first.\"",
+      "timestamp": 1783238140380
+    },
+    {
+      "id": 51,
+      "action": "xero_request_error",
+      "details": "\"Xero credentials not found. Connect your account first.\"",
+      "timestamp": 1783238140381
+    },
+    {
+      "id": 52,
+      "action": "fetch_bank_transactions_error",
+      "details": "Xero credentials not found. Connect your account first.",
+      "timestamp": 1783238140395
+    },
+    {
+      "id": 53,
+      "action": "fetch_receipts_error",
+      "details": "Xero credentials not found. Connect your account first.",
+      "timestamp": 1783238140395
+    },
+    {
+      "id": 54,
+      "action": "fetch_invoices_error",
+      "details": "Xero credentials not found. Connect your account first.",
+      "timestamp": 1783238140396
+    },
+    {
+      "id": 55,
+      "action": "xero_request_error",
+      "details": "\"Xero credentials not found. Connect your account first.\"",
+      "timestamp": 1783238178577
+    },
+    {
+      "id": 56,
+      "action": "xero_request_error",
+      "details": "\"Xero credentials not found. Connect your account first.\"",
+      "timestamp": 1783238178578
+    },
+    {
+      "id": 57,
+      "action": "xero_request_error",
+      "details": "\"Xero credentials not found. Connect your account first.\"",
+      "timestamp": 1783238178578
+    },
+    {
+      "id": 58,
+      "action": "fetch_logs",
+      "details": "Fetched logs from database",
+      "timestamp": 1783238178578
+    },
+    {
+      "id": 59,
+      "action": "fetch_receipts_error",
+      "details": "Xero credentials not found. Connect your account first.",
+      "timestamp": 1783238178594
+    },
+    {
+      "id": 60,
+      "action": "fetch_bank_transactions_error",
+      "details": "Xero credentials not found. Connect your account first.",
+      "timestamp": 1783238178595
+    },
+    {
+      "id": 61,
+      "action": "fetch_invoices_error",
+      "details": "Xero credentials not found. Connect your account first.",
+      "timestamp": 1783238178595
+    },
+    {
+      "id": 62,
+      "action": "xero_request_error",
+      "details": "\"Xero credentials not found. Connect your account first.\"",
+      "timestamp": 1783238179625
+    },
+    {
+      "id": 63,
+      "action": "xero_request_error",
+      "details": "\"Xero credentials not found. Connect your account first.\"",
+      "timestamp": 1783238179626
+    },
+    {
+      "id": 64,
+      "action": "xero_request_error",
+      "details": "\"Xero credentials not found. Connect your account first.\"",
+      "timestamp": 1783238179626
+    },
+    {
+      "id": 65,
+      "action": "fetch_invoices_error",
+      "details": "Xero credentials not found. Connect your account first.",
+      "timestamp": 1783238179632
+    },
+    {
+      "id": 66,
+      "action": "fetch_receipts_error",
+      "details": "Xero credentials not found. Connect your account first.",
+      "timestamp": 1783238179632
+    },
+    {
+      "id": 67,
+      "action": "fetch_bank_transactions_error",
+      "details": "Xero credentials not found. Connect your account first.",
+      "timestamp": 1783238179632
+    },
+    {
+      "id": 68,
+      "action": "fetch_bank_transactions_error",
+      "details": "Xero credentials not found. Connect your account first.",
+      "timestamp": 1783241831893
+    },
+    {
+      "id": 69,
+      "action": "fetch_receipts_error",
+      "details": "Xero credentials not found. Connect your account first.",
+      "timestamp": 1783241831893
+    },
+    {
+      "id": 70,
+      "action": "fetch_logs",
+      "details": "Fetched logs from database",
+      "timestamp": 1783241831894
+    },
+    {
+      "id": 71,
+      "action": "fetch_invoices_error",
+      "details": "Xero credentials not found. Connect your account first.",
+      "timestamp": 1783241831894
     }
   ]
 }

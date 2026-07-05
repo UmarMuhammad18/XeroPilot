@@ -35,6 +35,17 @@ app.get('/', (req, res) => {
   res.json({ message: 'XeroPilot backend is running' });
 });
 
-app.listen(PORT, () => {
+const server = app.listen(PORT, () => {
   console.log(`Backend running on port ${PORT}`);
+});
+
+// Handle listen errors (for example when the port is already in use)
+server.on('error', (err) => {
+  if (err && err.code === 'EADDRINUSE') {
+    console.error(`Port ${PORT} is already in use. Please free the port or set PORT to a different value.`);
+    console.error(`If you want to stop the process currently using the port run (PowerShell): Stop-Process -Id <pid> -Force`);
+    process.exit(1);
+  }
+  // Re-throw unexpected errors so they are visible
+  throw err;
 });
