@@ -53,6 +53,8 @@ This repository is organized into two main components:
    ```
    *Note: For active development with hot-reloading, you can run `npm run dev`.*
 
+> Note: OAuth scopes are currently being debugged, but the full flow is implemented and deployed. The next step is aligning scopes and completing the AI analysis pipeline.
+
 ## Technologies Used
 
 **Frontend:**
