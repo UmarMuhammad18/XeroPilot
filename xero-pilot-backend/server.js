@@ -8,6 +8,7 @@ import bankRoutes from './src/routes/bank.js';
 import contactRoutes from './src/routes/contacts.js';
 import automationRoutes from './src/routes/automations.js';
 import logRoutes from './src/routes/logs.js';
+import aiRoutes from './src/routes/ai.js';
 
 // Load environment variables from .env
 dotenv.config();
@@ -27,6 +28,7 @@ app.use('/api/bank', bankRoutes);
 app.use('/api/contacts', contactRoutes);
 app.use('/api/automations', automationRoutes);
 app.use('/api/logs', logRoutes);
+app.use('/api/ai', aiRoutes);
 
 // Root endpoint for health checks
 app.get('/', (req, res) => {

@@ -20,7 +20,7 @@ export async function categorizeReceipt(req, res) {
     }
 
     const data = await xeroRequest('post', '/api.xro/2.0/Receipts', {
-      Receipts: [{ ReceiptID: receiptId, LineItems: [{ AccountCode: accountCode }]] }],
+      Receipts: [{ ReceiptID: receiptId, LineItems: [{ AccountCode: accountCode }] }],
     });
     await saveLog('categorize_receipt', `Categorized receipt ${receiptId} to account ${accountCode}`);
     res.json(data);

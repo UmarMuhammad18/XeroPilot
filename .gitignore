@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.vite/
+.env
+xero-pilot-backend/.env
+xero-pilot-backend/node_modules/

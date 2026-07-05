@@ -1,0 +1,11 @@
+{
+  "tokens": [],
+  "logs": [
+    {
+      "id": 1,
+      "action": "ai_analyse_receipt_error",
+      "details": "Request failed with status code 429",
+      "timestamp": 1783236749575
+    }
+  ]
+}

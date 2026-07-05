@@ -41,6 +41,16 @@ const navItems = [
     ),
   },
   {
+    label: 'AI Assistant',
+    to: '/ai',
+    icon: (
+      <svg className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.75}>
+        <path strokeLinecap="round" strokeLinejoin="round" d="M12 18.75c-3.38 0-6.75-1.94-6.75-4.5V8.25a2.25 2.25 0 012.25-2.25h8.999A2.25 2.25 0 0118.75 8.25v5.999c0 2.56-3.37 4.5-6.75 4.5z" />
+        <path strokeLinecap="round" strokeLinejoin="round" d="M8.25 9.75h7.5M8.25 13.5h4.5" />
+      </svg>
+    ),
+  },
+  {
     label: 'Settings',
     to: '/settings',
     icon: (

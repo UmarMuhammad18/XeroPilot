@@ -5,6 +5,7 @@ import Automations from './pages/Automations';
 import Logs from './pages/Logs';
 import Cashflow from './pages/Cashflow';
 import Settings from './pages/Settings';
+import AiAssistant from './pages/AiAssistant';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
           <Route path="/logs" element={<Logs />} />
           <Route path="/cashflow" element={<Cashflow />} />
           <Route path="/settings" element={<Settings />} />
+          <Route path="/ai" element={<AiAssistant />} />
           <Route path="*" element={<Navigate to="/" replace />} />
         </Route>
       </Routes>

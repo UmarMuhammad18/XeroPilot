@@ -21,7 +21,7 @@ export function getAuthUrl() {
     response_type: 'code',
     client_id: clientId,
     redirect_uri: redirectUri,
-    scope: 'openid profile email accounting.transactions accounting.settings accounting.contacts accounting.attachments accounting.reports.read accounting.reports.write accounting.journals accounting.tax accounting.balance',
+    scope: 'openid profile email offline_access accounting.transactions accounting.settings accounting.contacts accounting.attachments accounting.reports.read accounting.reports.write accounting.journals accounting.tax accounting.balance',
     state: 'xeropilot-state',
   };
 
